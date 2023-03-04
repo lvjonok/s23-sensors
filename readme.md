@@ -17,3 +17,11 @@ This repository contains the code for the S23 Sensors and sensing course at the 
 3. Homework 3 - [link](hw3.ipynb)
    - Use DCT and DFT to filter data
    - Find noise from audio and remove it
+
+4. Homework 4 - [link](hw4.ipynb)
+   - Use Hough transform to estimate line from noisy measurements
+   - Identify walls from 2D lidar measurements
+
+5. Homework 5 - [link](hw5.ipynb)
+   - Use RANSAC to estimate line from noisy measurements
+   - Apply RANSAC to filter plane and identify object from 3D point cloud
